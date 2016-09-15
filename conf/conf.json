@@ -1,0 +1,14 @@
+{
+  "config": {
+    "connection": {
+      "name": "Some TCP Connection",
+      "address": "127.0.0.1",
+      "port": 8000,
+      "bufferSize": 16384,
+      "enableReconnect": true,
+      "reconnect-time": 3,
+      "username": "sercan",
+      "password": "karaoglu"
+    }
+  }
+}
